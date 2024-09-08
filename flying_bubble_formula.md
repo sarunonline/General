@@ -1,4 +1,4 @@
-# BUBBLE SOLUTION FORMULA
+# Flying Bubble Solution
 
 A bubble solution is made with the following ingredients (percentages are by weight of the final Solution): 
 
