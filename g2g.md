@@ -18,10 +18,14 @@ You can back up your emails from one Gmail account to another using minor change
 - In the **Check mail from other accounts** section, click **Add a mail account**.
 - Enter the email address of the Gmail account you want to import emails from.
 - Click Next.
+  
 ![Add mail account](https://www.dropbox.com/scl/fi/1qp6ydgjl2xf76n610lio/g2g_1.png?rlkey=3lde4pe0kp8wj9uj5orq7yoe2&raw=1)
+
 - Select Import emails from my other account (POP3).
 - Click Next.
+  
 ![Import mail account](https://www.dropbox.com/scl/fi/s9u04glfezltjg980kvmw/g2g_2.png?rlkey=jfnd2kpmvz4m926zrefb3lv5z&raw=1)
+
 - Enter POP Server Information:
   - Username: Your full source Gmail email address.
   - Password: The password for your source Gmail account.
