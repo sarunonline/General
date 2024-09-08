@@ -32,7 +32,10 @@ You can back up your emails from one Gmail account to another using minor change
   - Click Add Account.
 - Optional - Send Mail As:
   - If you want to send emails from the destination account using the source account’s email address, follow the prompts to set up the Send mail as feature.
-    
+
+
+![tt](https://www.dropbox.com/scl/fi/a8b47eksgdswzgnf9r1r3/Screenshot-2017-09-17-20.12.28.png?rlkey=me74731ke499d8rslhfz3y7nt&raw=1)
+
 ## Summary of POP Server Settings
 - Incoming Mail (POP) Server: **pop.gmail.com**
 - Requires SSL: **Yes**
