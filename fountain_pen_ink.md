@@ -11,7 +11,7 @@ The fountain pen ink industries are now on the brink of existence. Only a few co
 |Ingredients |Parts|
 |---|---|
 |Red Dye (CI Acid Red 73)| 1.0 |
-|Ethylene |glycol 12.0 |
+|Ethylene glycol| 12.0 |
 |Glycerin| 3.0 |
 |Phosphate-based surfactant$| 0.1| 
 |Triethanolamine (PH preparation) |0.2 |
