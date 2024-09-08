@@ -1,4 +1,6 @@
-You can back up your emails from one Gmail account to another using a few different methods. Here are the steps for a couple of the most common methods:
+# Mail transfer from one Gmail account to another Gmail account (backup purpose)
+
+You can back up your emails from one Gmail account to another using the method described below:
 
 Method 1: Using Gmail Settings
 Enable POP in the Source Account:
