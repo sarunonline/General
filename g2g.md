@@ -21,8 +21,8 @@ You can back up your emails from one Gmail account to another using minor change
 - Enter POP Server Information:
   - Username: Your full source Gmail email address.
   - Password: The password for your source Gmail account.
-  - POP Server: pop.gmail.com
-  - Port: 995
+  - POP Server: **pop.gmail.com**
+  - Port: **995**
   - Check the box **Always** use a secure connection (SSL) when retrieving mail.
 - Additional Settings:
   - Leave a copy of retrieved messages on the server: Check this if you want to keep the emails in the source account as well.
@@ -34,13 +34,13 @@ You can back up your emails from one Gmail account to another using minor change
   - If you want to send emails from the destination account using the source account’s email address, follow the prompts to set up the Send mail as feature.
   - 
 ## Summary of POP Server Settings
-- Incoming Mail (POP) Server: pop.gmail.com
-- Requires SSL: Yes
-- Port: 995
-- Outgoing Mail (SMTP) Server: smtp.gmail.com
-- Requires SSL: Yes
-- Requires TLS: Yes (if available)
-- Requires Authentication: Yes
-- Port for TLS/STARTTLS: 587
+- Incoming Mail (POP) Server: **pop.gmail.com**
+- Requires SSL: **Yes**
+- Port: **995**
+- Outgoing Mail (SMTP) Server: **smtp.gmail.com**
+- Requires SSL: **Yes**
+- Requires TLS: **Yes** (if available)
+- Requires Authentication: **Yes**
+- Port for TLS/STARTTLS: **587**
 
 These steps should help you configure your destination Gmail account to fetch emails from another Gmail account using POP.
