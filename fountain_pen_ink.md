@@ -1,5 +1,10 @@
-# FOUNTAIN PEN INK
+# Fountain Pen Ink formula
 
+The fountain pens are now getting lost in oblivion due to the industrial production of plastic ballpoint pens. While convenient and widely used, these plastic ballpoint pens have several adverse effects on the environment. The production of these pens involves extracting and processing petroleum-based plastics, which contribute to greenhouse gas emissions and environmental degradation. Once discarded, plastic pens often end up in landfills or water bodies, where they can take hundreds of years to decompose. During this time, they can release toxic chemicals into the soil and water, harming wildlife and ecosystems. Additionally, the ink in these pens may contain harmful substances that can further pollute the environment. The sheer volume of plastic pens discarded annually exacerbates the global plastic pollution crisis, highlighting the need for more sustainable alternatives and recycling practices.
+
+Fountain pens are significantly more environmentally friendly compared to plastic ballpoint pens. Fountain pens are designed to be refillable and reusable, which means they generate far less plastic waste. Unlike disposable ballpoint pens that are discarded after use, a single fountain pen can last a lifetime with proper care1. Many fountain pens are made from durable materials like metal, wood, or high-quality resins, often recyclable or biodegradable. The production of fountain pens generally requires fewer raw materials over time since they are not meant to be thrown away. This reduces the environmental impact associated with the extraction and processing of these materials. Fountain pens use bottled ink, which can be more environmentally friendly. Bottled ink minimizes the need for single-use plastic cartridges and often comes in recyclable glass bottles. The longevity of fountain pens means fewer pens are produced and discarded, leading to a smaller environmental footprint. A well-maintained fountain pen can be passed down through generations, reducing waste. By choosing fountain pens, you reduce plastic pollution and promote sustainable writing practices. 
+
+The fountain pen ink industries are now on the brink of existence. Only a few companies are producing fountain pen ink. Also, these inks are unavailable in the local market because of the low sale rate. Hence, it is now necessary to find the composition of fountain pen ink, which one can make with the available resources. Few of such compositions are given below:
 
 ## Patent No: JP2000313836A
 
@@ -25,15 +30,15 @@ The initial viscosity of the ink composition was 1.65 mPa · s. The viscosity wh
 |---|---|
 Methyl Violet |0.72 |
 |Victoria Blue| 1.68 |
-|Oleic acid 2.42 |
+|Oleic acid |2.42 |
 |Mineral oil| 0.84|
 
-In preparing this ink the methyl violet, victoria blue and oleic acid are heated to about 65 C. and held for 15 minutes while continuously stirring the batch. The hot mixture is removed from the source of heat and as the mixture cools, the mineral oil is stirred into it. The mixture is then run twice over a three roller, water cooled ink mill and the ends are thrown away, thereby forming a stable, viscous homogeneous ink with an extremely long body which is free from large and rough particles.
+In preparing this ink, the methyl violet, Victoria blue, and oleic acid are heated to about 65 C. and held for 15 minutes while continuously stirring the batch. The hot mixture is removed from the heat source. As the mixture cools, the mineral oil is stirred into it. The mixture is then run twice over a three-roller, water-cooled ink mill, and the ends are thrown away, forming a stable, viscous, homogeneous ink with an extremely long body free from large and rough particles.
 
 
 ## Patent No: EP0030389A1
 
-The following ingredients are added to water, and the resulting mixture is stirred at about 30°C for 2 hours to obtain a red ink 
+The following ingredients are added to water. The resulting mixture is stirred at about 30°C for 2 hours to obtain a red ink. 
 
 |Ingredients |wt.parts|
 |---|---|
@@ -70,7 +75,7 @@ The ink with the above composition was mixed and filtered through a filter with 
 
 ### Example 2 
 
-Ink was prepared under the same conditions as in Example 1, except that diethylene glycol was used in place of the polyethylene glycol 200 in the ink composition of Example 1. 
+The ink was prepared under the same conditions as in Example 1, except that diethylene glycol was used in place of the polyethylene glycol 200 in the ink composition of Example 1. 
 
 ### Example 3 Ink composition 
 
@@ -78,8 +83,8 @@ Ink was prepared under the same conditions as in Example 1, except that diethyle
 |---|---|
 |Direct Black 154 |2 parts |
 |Acid Red 298 |0.5 parts |
-|Diethylene glycol 20 parts |
-|Glycerin 5 parts |
+|Diethylene glycol |20 parts |
+|Glycerin |5 parts |
 |Sodium dehydroacetate |0.5 parts |
 |Deionized water |72 parts |
 
@@ -109,7 +114,7 @@ The ink with the above composition was mixed and filtered to make ink.
 |Polyoxyethylene monostyrenated phenyl ether| 0.1 |
 |Water |96.7 | 
 
-The above components were mixed with stirring to obtain a black water-based ink for fountain pens.
+The above components were mixed with stirring to obtain black water-based ink for fountain pens.
 
 
 
@@ -124,4 +129,4 @@ The above components were mixed with stirring to obtain a black water-based ink 
 |Polyoxyethylene distyrenated phenyl ether| 0.05 |
 |Water |91.25 |
 
-The above components were mixed with stirring to obtain a black water-based ink for fountain pens.
+The above components were mixed with stirring to obtain black water-based ink for fountain pens.
